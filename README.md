@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I'm Pushpalatha 👋
 
-<!--
-**anushenoy0/anushenoy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Fettle App Design
+- 🌱 And I’m currently learning Innovative Product design
+- 👯 As well as I’m looking to collaborate on Wallet App @anmol500
+- 🤔 I’m looking for help with UI/UX for wallet app
+- 💬 Ask me about any thing related Designing stuff
+- 📫 How to reach me: pushpalathanshenoy@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a Pianist
+
+
+<img src ="https://github-readme-stats.vercel.app/api?username=anushenoy0&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anushenoy0&exclude_repo=github-readme-stats,anmol500.github.io">
